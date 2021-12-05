@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ucsb-campus-map/static/css/main.563c69f0.chunk.css",
-    "main.js": "/ucsb-campus-map/static/js/main.f19e21c8.chunk.js",
-    "main.js.map": "/ucsb-campus-map/static/js/main.f19e21c8.chunk.js.map",
+    "main.css": "/ucsb-campus-map/static/css/main.96c12cea.chunk.css",
+    "main.js": "/ucsb-campus-map/static/js/main.d289feca.chunk.js",
+    "main.js.map": "/ucsb-campus-map/static/js/main.d289feca.chunk.js.map",
     "runtime-main.js": "/ucsb-campus-map/static/js/runtime-main.eac17c48.js",
     "runtime-main.js.map": "/ucsb-campus-map/static/js/runtime-main.eac17c48.js.map",
-    "static/js/2.6e700cf2.chunk.js": "/ucsb-campus-map/static/js/2.6e700cf2.chunk.js",
-    "static/js/2.6e700cf2.chunk.js.map": "/ucsb-campus-map/static/js/2.6e700cf2.chunk.js.map",
+    "static/js/2.4cdeca52.chunk.js": "/ucsb-campus-map/static/js/2.4cdeca52.chunk.js",
+    "static/js/2.4cdeca52.chunk.js.map": "/ucsb-campus-map/static/js/2.4cdeca52.chunk.js.map",
     "index.html": "/ucsb-campus-map/index.html",
-    "static/css/main.563c69f0.chunk.css.map": "/ucsb-campus-map/static/css/main.563c69f0.chunk.css.map",
-    "static/js/2.6e700cf2.chunk.js.LICENSE.txt": "/ucsb-campus-map/static/js/2.6e700cf2.chunk.js.LICENSE.txt",
+    "static/css/main.96c12cea.chunk.css.map": "/ucsb-campus-map/static/css/main.96c12cea.chunk.css.map",
+    "static/js/2.4cdeca52.chunk.js.LICENSE.txt": "/ucsb-campus-map/static/js/2.4cdeca52.chunk.js.LICENSE.txt",
     "static/js/mapbox-gl-csp-worker.2d0beb00.worker.js": "/ucsb-campus-map/static/js/mapbox-gl-csp-worker.2d0beb00.worker.js",
     "static/js/mapbox-gl-csp-worker.2d0beb00.worker.js.map": "/ucsb-campus-map/static/js/mapbox-gl-csp-worker.2d0beb00.worker.js.map"
   },
   "entrypoints": [
     "static/js/runtime-main.eac17c48.js",
-    "static/js/2.6e700cf2.chunk.js",
-    "static/css/main.563c69f0.chunk.css",
-    "static/js/main.f19e21c8.chunk.js"
+    "static/js/2.4cdeca52.chunk.js",
+    "static/css/main.96c12cea.chunk.css",
+    "static/js/main.d289feca.chunk.js"
   ]
 }
