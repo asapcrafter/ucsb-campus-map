@@ -6,7 +6,12 @@ function App() {
 
 	return (
 		<div className="App">
-			<MapScene />
+			<div id="header-wrapper">
+				<div id="header">UCSB Campus Map</div>
+			</div>
+			<div id="mapbox-wrapper">
+				<MapScene />
+			</div>
 		</div>
 	);
 }

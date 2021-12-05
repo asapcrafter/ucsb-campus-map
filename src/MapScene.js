@@ -12,6 +12,9 @@ const MapScene = () => {
 
     mapboxgl.accessToken ='pk.eyJ1IjoiYXNhcGNyYWZ0ZXIiLCJhIjoiY2t1cnJyNXVpMGt3ZDJub2RhYWUwMXFmOCJ9.uGtKs3SkPq5kvpSC8xXMdQ'
 
+    // eslint-disable-next-line import/no-webpack-loader-syntax
+    mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+
     useEffect(() => {
         if (map.current) return; // initialize map only once
         map.current = new mapboxgl.Map({
